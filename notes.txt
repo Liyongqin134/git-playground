@@ -1,2 +1,2 @@
-My Git practice nates
+My Git practice notes
 I can inspect and save changes.
